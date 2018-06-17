@@ -1,0 +1,11 @@
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\bin\Debug\netcoreapp2.0\wepapi.deps.json
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\bin\Debug\netcoreapp2.0\wepapi.runtimeconfig.json
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\bin\Debug\netcoreapp2.0\wepapi.runtimeconfig.dev.json
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\bin\Debug\netcoreapp2.0\wepapi.dll
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\bin\Debug\netcoreapp2.0\wepapi.pdb
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\obj\Debug\netcoreapp2.0\wepapi.csprojAssemblyReference.cache
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\obj\Debug\netcoreapp2.0\wepapi.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\obj\Debug\netcoreapp2.0\wepapi.AssemblyInfoInputs.cache
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\obj\Debug\netcoreapp2.0\wepapi.AssemblyInfo.cs
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\obj\Debug\netcoreapp2.0\wepapi.dll
+C:\Users\wilfr\Documents\Programacion\dotnet\wepapi\obj\Debug\netcoreapp2.0\wepapi.pdb
